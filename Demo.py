@@ -6,3 +6,6 @@ print(s[::-1])
 h=reversed(s)
 for ch in h:
     print(ch,end="")
+
+
+print("top10")
